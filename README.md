@@ -8,12 +8,6 @@ I am proud to share them publicly with the tech community and future collaborato
 ## 🏅 Highlights
 
 - 📜 Verified and authentic certificates
-- 📚 Covers various domains including:
-  - Frontend Development
-  - Backend Development
-  - Data Structures & Algorithms
-  - Databases
-  - Software Engineering Practices
 
 ---
 
